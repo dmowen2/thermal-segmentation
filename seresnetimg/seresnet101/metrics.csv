@@ -1,0 +1,7 @@
+Image,IoU,F1-Score
+C:\Users\bluem\ANLResearch\scans\scans\00.png,0.8731,0.9322
+C:\Users\bluem\ANLResearch\scans\scans\01.png,0.8956,0.9449
+C:\Users\bluem\ANLResearch\scans\scans\07.png,0.8797,0.9360
+C:\Users\bluem\ANLResearch\scans\scans\05.png,0.8270,0.9053
+C:\Users\bluem\ANLResearch\scans\scans\14.png,0.0121,0.0238
+C:\Users\bluem\ANLResearch\scans\scans\15.png,0.0479,0.0913
